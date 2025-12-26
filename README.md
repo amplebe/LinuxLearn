@@ -7,3 +7,5 @@
 ``` ls --color=yes ```
 - or, alternatively for now
 ``` ls --color=auto ```
+
+> #### get more details
